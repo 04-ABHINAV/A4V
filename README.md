@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Abhinav </h1>
 <h3 align="center">A Passionate Engineer Working in Big Data, AI, Cloud, and Automation</h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=04-ABHINAV&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
+</p>
 
+---
 <div align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="200" alt="Techy and Professional GIF"/>
 </div>
