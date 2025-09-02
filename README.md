@@ -57,7 +57,6 @@ Here are some ideas to get you started:
   <img alt="Apache Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
-</p>
 
 ---
 
