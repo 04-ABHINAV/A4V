@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abhinav </h1>
 <h3 align="center">Engineer passionate about Big Data, Cloud, and Automation</h3>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=04-ABHINAV&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=abhinavalungal&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 🚀 Featured Projects
 | Project Name     | Description                                     | Tech Stack         |
 |-------------------|-------------------------------------------------|--------------------|
-| [Retail Sales ETL & Analytics](https://github.com/04-ABHINAV/Retail-Sales-ETL-Analytics-Project-) | End-to-end ETL and analytics workflow on 50K+ retail records. | Python (Pandas, SQLAlchemy), SQL Server |
+| [Retail Sales ETL & Analytics](https://github.com/abhinavalungal/Retail-Sales-ETL-Analytics-Project-) | End-to-end ETL and analytics workflow on 50K+ retail records. | Python (Pandas, SQLAlchemy), SQL Server |
 
 
 ---
@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=04-ABHINAV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=04-ABHINAV&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavalungal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavalungal&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -84,8 +84,8 @@ Here are some ideas to get you started:
 
 ### 🌟 Fun Additions:
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=04-ABHINAV" alt="Profile Views" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04-ABHINAV&theme=tokyo-night" alt="Activity Graph"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavalungal" alt="Profile Views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavalungal&theme=tokyo-night" alt="Activity Graph"/>
 </p>
 
 
