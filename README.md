@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abhinav Alungal </h1>
+<h1 align="center">Hi 👋, I'm Abhinav </h1>
 <h3 align="center">A Passionate Engineer Working in Big Data, AI, Cloud, and Automation</h3>
 
 <div align="center">
