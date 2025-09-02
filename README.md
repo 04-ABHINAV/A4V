@@ -59,18 +59,6 @@ Here are some ideas to get you started:
 </p>
 </p>
 
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavalungal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavalungal&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me:
@@ -82,15 +70,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
-
----
-
-### 🌟 Fun Additions:
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavalungal" alt="Profile Views" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavalungal&theme=tokyo-night" alt="Activity Graph"/>
-</p>
-
 
 ---
 
