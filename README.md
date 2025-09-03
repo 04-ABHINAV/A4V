@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Abhinav </h1>
-<h3 align="center">Engineer passionate about Big Data, Cloud, and Automation</h3>
+<h3 align="center">Engineer passionate about Big Data, Cloud, and ETL Pipelines</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abhinavalungal&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" /> 
 </p>
