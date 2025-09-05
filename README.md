@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center">  
+  <a href="https://github.com/MMuttalib1326/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Research%20Analyst%20At%20Corsearch%20Inc.;Always%20learning%20new%20things&font=Segoe%20UI&center=true&width=940&height=50&color=FFFFFF&vCenter=true&pause=2000&size=23" />
+  </a>
+</p>
 -->
 <h1 align="center">Hi 👋🏻 I'm Abhinav </h1>
 <h3 align="center">Engineer passionate about Big Data, Cloud, and ETL Pipelines</h3>
